@@ -4,11 +4,11 @@
 
 # Information We Collect
 
-### Location Data: The App may request permission to access your device's location data solely for the purpose of providing location-based features and services. Your location data is used exclusively within the App and is not stored or shared with third parties.
+### Location Data: The App may request permission to access your device's location data solely for the purpose of providing location-based features and services. Your location data is used exclusively within the App and is not shared with third parties; or stored in any databases.
 
 # How We Use Your Information
 
-### Location Data: We may use your location data to enhance your user experience within the App. Your location data is processed solely within the App and is not shared with external parties.
+### Location Data: If granted permission, RideSync will store your location locally, and send you weather updates to your phone.
 
 # Data Storage
 
@@ -16,7 +16,7 @@
 
 # Data Security
 
-### We take reasonable measures to protect the security and confidentiality of your information. However, please be aware that no method of transmission over the internet or electronic storage is entirely secure, and even though all information is stored locally on the device and we cannot guarantee absolute security.
+### We take great measures to protect the security and confidentiality of your information. However, please be aware that no method of transmission over the internet or electronic storage is entirely secure, and even though all information is stored locally on the device and we cannot guarantee absolute security.
 
 # Changes to this Privacy Policy
 
